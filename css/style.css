@@ -132,11 +132,18 @@ h6 {
   height: 72px;
   transition: all 0.5s;
 }
-
-#header #logo {
-  float: left;
-}
 #header #logo img{
+width:320px;
+  height:75px;
+  margin-top:-8%;
+  margin-left: 25px;
+
+}
+#header #logo h4 img{
+  width:250px;
+  height:32px;
+  margin-top:0;
+  margin-left: 17%;
 
 }
 #header #logo h1 {
@@ -212,7 +219,7 @@ h6 {
 }
 
 #intro p {
-  width: 80%;
+  width: 70%;
   margin: 0 auto 30px auto;
   color: yellow;
 }
